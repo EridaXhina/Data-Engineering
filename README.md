@@ -1,6 +1,6 @@
 # Projektimi dhe Implementimi i një Data Warehouse
-## Punim Semestral — Universiteti Politeknik i Tiranës
-### Viti Akademik 2023–2024
+## Punim Semestral — Universiteti i Tiranës
+### Viti Akademik 2025-2026
 
 ---
 
